@@ -1,7 +1,7 @@
 name: netmadan
 favicon: null
-layout_spectrum: 0.1636176777537912
-typography_spectrum: 0.8005950450897217
+layout_spectrum: 1
+typography_spectrum: 0.24912
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.5544303939677775
-  lightness: 0.5589119861833751
-  saturation: 0.10017138766124845
-  rhythmicContrast: 0.014983738772571087
+  brandStrength: 0.25
+  lightness: 0.8125
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
