@@ -1,0 +1,28 @@
+name: netmadan
+favicon: null
+layout_spectrum: 0.1636176777537912
+typography_spectrum: 0.8005950450897217
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5544303939677775
+  lightness: 0.5589119861833751
+  saturation: 0.10017138766124845
+  rhythmicContrast: 0.014983738772571087
+purpose: []
